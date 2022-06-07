@@ -1,3 +1,3 @@
 # Dmitry Melnykov
-## phone +79494727381
+## phone +380714727381
 ### Telegram: @Melnykov_ds
