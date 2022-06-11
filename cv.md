@@ -16,4 +16,4 @@ I now work in technical support for an IT company. I set a goal to become a deve
 ## Education.
 Donetsk National University. Faculty of Law. 2017 - 2021
 
-## English A2git
+## English A2
