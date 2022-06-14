@@ -28,6 +28,9 @@ html {
     width: 100%;
     background-color: #99D0A0;
 }
+.nav-box {
+    display: flex;
+}
 .nav-list {
     display: flex;
     justify-content: flex-end;
