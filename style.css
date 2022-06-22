@@ -195,16 +195,10 @@
     margin-top: 15px;
     margin-bottom: 20px;
 }
-.info-title {
-    text-align: center;
-}
 .info-discription {
     margin-top: 15px;
     font-family: 'Open Sans', sans-serif;
     font-size: 18px;
-}
-.english {
-    text-align: center;
 }
 .info-discription-item {
     list-style: none;
@@ -224,19 +218,18 @@
     width: 20%;
     border-left: 1px dashed #000;;
 }
-.projects-description {
-    margin-left: 13px;
-    font-size: 25px;
-    font-family: 'Open Sans', sans-serif;
-}
 .projects-img {
-    padding: 13px;
-    width: 100%;
-    height: auto;
+    width: 95%;
     transition: 1s;
 }
 .projects-img:hover {
     transform: scale(1.1);
+}
+.projects-description {
+    margin-left: 25px;
+    font-size: 20px;
+    color: #6b7d66;
+    font-family: 'Open Sans', sans-serif;
 }
 
 /*footer*/
